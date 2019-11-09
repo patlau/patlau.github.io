@@ -3,15 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://patlau.gitlab.io/</loc>
+    <lastmod>2019-11-09T12:03:11+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://patlau.gitlab.io/categories/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://patlau.gitlab.io/tags/</loc>
   </url>
   
 </urlset>
