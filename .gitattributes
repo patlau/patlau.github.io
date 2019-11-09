@@ -1,5 +1,5 @@
 *           text=auto
 *.txt		text
-*.html 		text eol=crlf
+*.html 		text eol=lf
 *.xml		text eol=lf
 *.jpg		-text
